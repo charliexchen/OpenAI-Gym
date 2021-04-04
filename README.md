@@ -27,7 +27,7 @@ What I learned:
   <img width="400"  src="connect4.gif">
 </p>
 
-<p align="center"><i> <sub>Me (X) getting destroyed by my connect 4 bot running Monte Carlo Tree Search :(</sub></i> </p>
+<p align="center"><i> <sub>Me (X) getting destroyed by my connect 4 bot (O) running Monte Carlo Tree Search :(</sub></i> </p>
 
 
 This repo also includes an double pendulum environment I made in pygame. This came as a result of me getting stuck in an airport a few years back after I missed a flight. I had nothing on me, and I had nothing else to do, so I derived the kinematics of the double pendulum, as one does. Once I got back home I implemented it with RK4, but sadly it's probably not robust or fast enough to be used effectively for RL.
