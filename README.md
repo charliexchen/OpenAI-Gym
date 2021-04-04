@@ -10,7 +10,7 @@ What I learned:
 
 
 <p align="center">
-  <img width="400" height="300" src="lunar_lander_land.gif">
+  <img width="400" src="lunar_lander_land.gif">
 </p>
 
 <p align="center"><i> <sub>Lunar lander using Double Q-learning</sub></i> </p>
@@ -18,7 +18,7 @@ What I learned:
 
 
 <p align="center">
-  <img width="400" height="300" src="cartpole.gif">
+  <img width="400"  src="cartpole.gif">
 </p>
 
 <p align="center"><i> <sub>Cart-Pole using Policy Gradient</sub></i> </p>
@@ -29,7 +29,7 @@ This repo also includes an double pendulum environment I made in pygame. This ca
 
 
 <p align="center">
-  <img width="400" height="300" src="pendulum.gif">
+  <img width="400" src="pendulum.gif">
 </p>
 
 <p align="center"><i> <sub>Wheeee~</sub></i> </p>
