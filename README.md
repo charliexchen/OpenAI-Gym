@@ -29,7 +29,7 @@ This repo also includes an double pendulum environment I made in pygame. This ca
 
 
 <p align="center">
-  <img width="400" height="300" src="cartpole.gif">
+  <img width="400" height="300" src="pendulum.gif">
 </p>
 
 <p align="center"><i> <sub>Wheeee~</sub></i> </p>
