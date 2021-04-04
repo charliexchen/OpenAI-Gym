@@ -1,6 +1,6 @@
 # OpenAI-Gym
 
-Attempts at using various RL techniques to solve OpenAI gym problems for fun. The implementations are from scratch and uses either Keras or numpy in order to implement the neural nets (For learning I implemented my own neural net module. This is obviously really ineffecient, but it was a fun experience and I wanted to make sure I had a concrete understanding of what is going on under the hood).
+Attempts at using various RL techniques to solve OpenAI gym problems for fun. The implementations are from scratch and uses either Keras or numpy in order to implement the neural nets. (For learning I implemented my own neural net module. This is obviously really ineffecient, but it was a fun experience and I wanted to make sure I had a concrete understanding of what is going on under the hood)
 
 What I learned:
  * Implemention of Q-learning, Double Q-learning and policy gradient methods from sractch.
